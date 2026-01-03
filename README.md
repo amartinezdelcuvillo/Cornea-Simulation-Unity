@@ -1,4 +1,4 @@
-# Cornea-Simulation-Unity
+# Corneal Deformation Simulator
 
 An interactive simulation of **corneal deformation** and **palpation**, built with **Unity 3D** and based on a physical model developed in **ANSYS**. The simulator integrates a **Touch X haptic device** to provide force-feedback, aimed at medical training scenarios (e.g., surgical practice).
 
