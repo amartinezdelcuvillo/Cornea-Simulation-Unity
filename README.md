@@ -32,16 +32,24 @@ Additionally, the project supports **MQTT** communication to facilitate integrat
 
 ## Demo Videos
 
-- **ANSYS simulation (physics/deformation)**
-https://github.com/user-attachments/assets/db3cce15-cd74-4469-ba20-32665b46e009
+### ANSYS simulation (physics / deformation)
 
 
-- **Unity + haptics simulation (real-time palpation)**
+
+https://github.com/user-attachments/assets/c40bed8a-e53e-4e1b-8084-7e38c63353b2
+
+
+
+
+### Unity + haptics simulation (real-time palpation)
+
 https://github.com/user-attachments/assets/56652e4a-4db1-40a4-a395-683e8dcacf45
 
 
-### Note about the videos
-The Unity demo video uses a sample value of \(K\) for demonstration purposes, while the correct calibrated value is implemented in the full project.
+## Note about the videos
+
+The Unity demo video uses a sample value of (K) for demonstration purposes,
+while the correct calibrated value is implemented in the full project.
 
 ---
 
